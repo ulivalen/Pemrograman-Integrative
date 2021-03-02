@@ -1,0 +1,21 @@
+
+
+#include
+
+int kurang(int a, int b);
+
+void main(){
+
+clrscr();
+
+cout << “Hasil pengurangan : “ << jumlah(5,8);
+
+getch();}
+
+int kurang(int a, int b)
+
+{
+
+return(a - b);
+
+}
